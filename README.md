@@ -50,10 +50,7 @@ Smart commute analysis for business locations. A web application that helps user
 ## 🎥 Demo
 
 Check out the demo video of **CommuteWise**:  
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/RaghuRaikar/CommuteWise/main/CommuteWise.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![CommuteWise Demo](https://img.shields.io/badge/Watch-CommuteWise_Demo-blue?style=for-the-badge&logo=github)](https://github.com/RaghuRaikar/CommuteWise/releases/latest)
 
 
 
