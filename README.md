@@ -1,7 +1,7 @@
 CommuteWise – Smart commute analysis for business locations.
 =========================
 
-– Smart commute analysis for business locations. A web application that helps users find and evaluate business locations based on distance and commute time, and fuel costs. The project integrates Google Maps APIs to provide an interactive map and autocomplete search functionality for business locations.
+Smart commute analysis for business locations. A web application that helps users find and evaluate business locations based on distance and commute time, and fuel costs. The project integrates Google Maps APIs to provide an interactive map and autocomplete search functionality for business locations.
 
 🚀 Features
 -----------
@@ -49,7 +49,9 @@ CommuteWise – Smart commute analysis for business locations.
 -----------
 ## 🎥 Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](./Yelp-Demo.mov)
+Check out the demo video of **CommuteWise**:  
+[![CommuteWise Demo](https://img.shields.io/badge/Watch-CommuteWise_Demo-blue?style=for-the-badge&logo=github)](https://github.com/RaghuRaikar/CommuteWise/releases/latest)
+
 
 
 🚀 Getting Started
